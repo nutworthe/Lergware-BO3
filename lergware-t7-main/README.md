@@ -26,3 +26,8 @@ now put the lergware folder within the BO3 directory.
 
 if you've done all these steps properly your game should load and the button to open the menu is insert.
 ______________________________________________________________________________________________________________
+
+
+note from nutworthe: Original was taken down this is just my re-upload! 
+https://www.youtube.com/watch?v=XSKG41jWA5c for tutorial 
+https://discord.gg/MSKUNVmHJ3 for help :)
